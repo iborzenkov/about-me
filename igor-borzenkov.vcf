@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Борзенков;Игорь;;;
+FN:Игорь Борзенков
+TITLE:Backend .NET (C#) Developer
+EMAIL;TYPE=INTERNET,PREF:iborzenkov@gmail.com
+URL;TYPE=LinkedIn:https://linkedin.com/in/igorborzenkov
+URL;TYPE=GitHub:https://github.com/iborzenkov
+URL;TYPE=GitLab:https://gitlab.com/iborzenkov
+URL;TYPE=Habr:https://career.habr.com/borzenkov-igor2
+NOTE:Россия, Иркутск. Готов к удалённой работе.
+END:VCARD
