@@ -1,0 +1,296 @@
+{
+  "person": {
+    "name": "Igor",
+    "title": "Backend .NET (C#) Developer",
+    "tagline": "Pragmatic engineering: simple solutions, high reliability, real impact",
+    "photoUrl": "assets/images/photo.jpg"
+  },
+  "aboutText": "Welcome to my page. I’m a software developer with over 20 years of experience, focused on building complex enterprise Windows desktop applications used by millions of users, where the cost of failure is high and quality is non-negotiable.",
+  "skills": [
+    {
+      "name": "C#",
+      "category": "Languages",
+      "level": 5
+    },
+    {
+      "name": ".NET Core",
+      "category": "Frameworks",
+      "level": 5
+    },
+    {
+      "name": ".NET Framework",
+      "category": "Frameworks",
+      "level": 5
+    },
+    {
+      "name": "Django",
+      "category": "Frameworks",
+      "level": 3
+    },
+    {
+      "name": "Angular",
+      "category": "Frameworks",
+      "level": 2
+    },
+    {
+      "name": "WPF",
+      "category": "UI",
+      "level": 5
+    },
+    {
+      "name": "WinForms",
+      "category": "UI",
+      "level": 5
+    },
+    {
+      "name": "Figma",
+      "category": "UI",
+      "level": 3
+    },
+    {
+      "name": "MVVM",
+      "category": "Patterns",
+      "level": 5
+    },
+    {
+      "name": "asynchronous programming",
+      "category": "Patterns",
+      "level": 5
+    },
+    {
+      "name": "ASP.NET Core",
+      "category": "Web",
+      "level": 4
+    },
+    {
+      "name": "Entity Framework",
+      "category": "ORM",
+      "level": 4
+    },
+    {
+      "name": "Dapper",
+      "category": "ORM",
+      "level": 3
+    },
+    {
+      "name": "SQL Server",
+      "category": "Databases",
+      "level": 4
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Databases",
+      "level": 3
+    },
+    {
+      "name": "IIS",
+      "category": "Databases",
+      "level": 3
+    },
+    {
+      "name": "Docker",
+      "category": "DevOps",
+      "level": 4
+    },
+    {
+      "name": "Git",
+      "category": "Tools",
+      "level": 5
+    },
+    {
+      "name": "SVN",
+      "category": "Tools",
+      "level": 4
+    },
+    {
+      "name": "CI/CD",
+      "category": "DevOps",
+      "level": 4
+    },
+    {
+      "name": "TeamCity",
+      "category": "DevOps",
+      "level": 3
+    },
+    {
+      "name": "REST API",
+      "category": "Web",
+      "level": 4
+    },
+    {
+      "name": "gRPC",
+      "category": "Web",
+      "level": 3
+    },
+    {
+      "name": "RabbitMQ",
+      "category": "Messaging",
+      "level": 3
+    },
+    {
+      "name": "Delphi",
+      "category": "Languages",
+      "level": 5
+    },
+    {
+      "name": "PHP",
+      "category": "Languages",
+      "level": 3
+    },
+    {
+      "name": "TypeScript",
+      "category": "Languages",
+      "level": 2
+    },
+    {
+      "name": "Python",
+      "category": "Languages",
+      "level": 3
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Kaspersky Lab",
+      "companyUrl": "https://www.kaspersky.com",
+      "position": "Backend Developer",
+      "period": "January 2022 — Present",
+      "location": "Moscow, Russia",
+      "achievements": [
+        "Developed the UI for Windows desktop antivirus products",
+        "Collaborated with designers and a Figma-based design system/graphics pipeline",
+        "Integrated with a low-level business-logic layer; able to read and understand C++ code",
+        "Developed and maintained unit, integration, and E2E tests",
+        "Participated in the migration to import-substituted tools: Git, MS Teams, MS Office, MS Visual Studio, MSBuild, Copilot"
+      ],
+      "technologies": [ "C#", "WPF", "MVVM", "XAML", ".NET Core", "Git", "Figma", "CI/CD", "docker", "Linux" ]
+    },
+    {
+      "company": "Roszheldorproekt",
+      "companyUrl": "https://www.rzdp.ru/",
+      "position": "Middle developer / Senior developer / Architect / Senior Architect",
+      "period": "January 2015 — January 2022",
+      "location": "Moscow, Russia",
+      "achievements": [
+        "Developed and maintained a corporate railway design CAD system",
+        "Implemented several mathematical design modules",
+        "Rendered/visualized graphics in drawings (OpenGL) and in UI controls (WPF)",
+        "Implemented interactive user workflows similar to AutoCAD",
+        "Created and maintained unit and E2E tests",
+        "Built several microservice solutions for CAD user monitoring and integrated them with other company systems"
+      ],
+      "technologies": [ "C#", ".NET", "WPF", "ASP.NET Core", "Delphi", "Git", "CI/CD", "TeamCity", "Docker", "SQL Server", "EF Core", "Microservices", "Web" ]
+    },
+    {
+      "company": "Upwork",
+      "companyUrl": "https://www.upwork.com",
+      "position": "Freelancer",
+      "period": "November 2013 — January 2020",
+      "location": "Remote",
+      "achievements": [
+        "Built a .NET (C#) Web API client (Crypto APIs)",
+        "Built a Delphi Web API client (Route4Me)",
+        "Developed a Delphi component similar to the review/track-changes system in \"MS Word\"",
+        "Other small projects"
+      ],
+      "technologies": [ "C#", ".NET", "Delphi", "REST API", "Git", "Win API", "Web" ]
+    },
+    {
+      "company": "Irkutskzheldorproekt",
+      "companyUrl": "https://www.rzdp.ru/filials/234",
+      "position": "Software Developer",
+      "period": "July 2003 — December 2014",
+      "location": "Irkutsk, Russia",
+      "achievements": [
+        "Developed and maintained CAD software for railway design organizations",
+        "Implemented computational/mathematical modules",
+        "Visualized models on drawings (Canvas) and in form controls (WinForms)",
+        "Generated reporting/documentation (MS Word, MS Excel)",
+        "Created and maintained unit and E2E tests",
+        "Developed a land cadastre and land-use system for the East Siberian Railway"
+      ],
+      "technologies": [ "Delphi", "WinForms", "SVN", "Git", "AutoCAD", "MS Access", "Erwin", "JIRA", "CI/CD" ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Kaspersky Products",
+      "description": "UI development for the company’s flagship B2B and B2C products: KIS, KES, KSDE, KPM.",
+      "url": "https://www.kaspersky.com/",
+      "githubUrl": null,
+      "technologies": [ "C#", "WPF", "MVVM", ".NET Core", "Linux", "unit tests", "E2E tests", "CI/CD", "Docker", "git", "Azure DevOps" ],
+      "isFeatured": true
+    },
+    {
+      "name": "Railway CAD System",
+      "description": "Specialized CAD systems for railway design. A Russian alternative to Autodesk Civil 3D, Bentley MicroStation, and Robur. Highly complex engineering software with mathematical design algorithms, reporting/documentation, and built-in 3D visualization. Development won the \"Project of the Year\" award in the \"Transportation and Logistics / Domestic Software\" category",
+      "url": "https://www.rzdp.ru/",
+      "githubUrl": null,
+      "technologies": [ "C#", ".NET", "WPF", "MVVM", "OpenGL", "Delphi", "XML", "unit tests", "E2E tests", "CI/CD", "SQL Server", "git", "svn", "JIRA", "Confluence", "TeamCity", "Docker" ],
+      "isFeatured": true
+    },
+    {
+      "name": "Crypto APIs .NET SDK",
+      "description": ".NET client for Crypto APIs",
+      "url": "https://cryptoapis.io/",
+      "githubUrl": "https://github.com/Crypto-APIs/.NET-Library",
+      "technologies": [ "C#", ".NET", "REST API", "unit tests" ],
+      "isFeatured": false
+    },
+    {
+      "name": "Route4Me Delphi SDK",
+      "description": "Delphi client for Route4Me API",
+      "url": "https://route4me.com/",
+      "githubUrl": "https://github.com/route4me/route4me-delphi-sdk",
+      "technologies": [ "Delphi", "REST API", "unit tests", "JSON" ],
+      "isFeatured": false
+    },
+    {
+      "name": "Event Notification System",
+      "description": "OTUS capstone project: an event notification system for configurable event triggers with a microservice architecture",
+      "url": null,
+      "githubUrl": "https://gitlab.com/iborzenkov/team4/-/tree/signalr/EventNotifier?ref_type=heads",
+      "technologies": [ "C#", ".NET Core", "RabbitMQ", "Docker", "gRPC", "Microservices", "Web", "unit tests", "WPF" ],
+      "isFeatured": false
+    },
+    {
+      "name": "Review system",
+      "description": "Word-like review system: tracking and highlighting added, modified, and deleted text fragments.",
+      "url": null,
+      "githubUrl": null,
+      "technologies": [ "Delphi", "Win API", "unit tests" ],
+      "isFeatured": false
+    },
+    {
+      "name": "Proxy Miner",
+      "description": "Pet project: a desktop proxy miner. Finds proxies by specified parameters and monitors their status.",
+      "url": null,
+      "githubUrl": "https://github.com/iborzenkov/ProxyMiner",
+      "technologies": [ "C#", ".NET Core", "CI/CD", "WPF", "unit tests", "asynchrony" ],
+      "isFeatured": false
+    }
+  ],
+  "education": [
+    {
+      "institution": "Irkutsk State Technical University",
+      "degree": "Systems Engineer",
+      "period": "1999 — 2004",
+      "specialization": "Automated Information Processing and Control Systems",
+      "honours": true
+    },
+    {
+      "institution": "OTUS",
+      "degree": "C# Developer. Professional",
+      "period": "2021",
+      "specialization": null,
+      "honours": null
+    }
+  ],
+  "contact": {
+    "email": "iborzenkov@gmail.com",
+    "linkedIn": "igorborzenkov",
+    "gitHub": "https://github.com/iborzenkov",
+    "gitLab": "https://gitlab.com/iborzenkov",
+    "stackOverflow": "https://stackoverflow.com/users/6798238/igor-borzenkov",
+    "habrCareer": "https://career.habr.com/borzenkov-igor2"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "NAV": {
+    "HOME": "Главная",
+    "ABOUT": "Обо мне",
+    "SKILLS": "Навыки",
+    "EXPERIENCE": "Опыт",
+    "PROJECTS": "Проекты",
+    "EDUCATION": "Образование",
+    "CONTACT": "Контакты"
+  },
+  "HERO": {
+    "GREETING": "Привет, я",
+    "DOWNLOAD_RESUME": "Получить резюме",
+    "CONTACT_ME": "Связаться"
+  },
+  "ABOUT": {
+    "TITLE": "Обо мне"
+  },
+  "SKILLS": {
+    "TITLE": "Навыки",
+    "CATEGORIES": {
+      "Languages": "Языки",
+      "Frameworks": "Фреймворки",
+      "UI": "UI",
+      "Patterns": "Паттерны",
+      "Web": "Веб",
+      "ORM": "ORM",
+      "Databases": "Базы данных",
+      "DevOps": "DevOps",
+      "Tools": "Инструменты",
+      "Messaging": "Messaging"
+    }
+  },
+  "EXPERIENCE": {
+    "TITLE": "Опыт работы",
+    "ACHIEVEMENTS": "Достижения",
+    "TECHNOLOGIES": "Технологии"
+  },
+  "PROJECTS": {
+    "TITLE": "Проекты",
+    "FEATURED": "Избранные",
+    "ALL": "Все проекты",
+    "VIEW_PROJECT": "Открыть",
+    "VIEW_CODE": "Код"
+  },
+  "EDUCATION": {
+    "TITLE": "Образование",
+    "HONOURS": "диплом с отличием"
+  },
+  "CONTACT": {
+    "TITLE": "Контакты",
+    "EMAIL": "Email",
+    "GET_IN_TOUCH": "Свяжитесь со мной",
+    "SOCIAL": "Социальные сети"
+  },
+  "FOOTER": {
+    "RIGHTS": "Все права защищены",
+    "BUILT_WITH": "Сделано с любовью"
+  },
+  "COMMON": {
+    "LOADING": "Загрузка...",
+    "ERROR": "Произошла ошибка"
+  }
+}

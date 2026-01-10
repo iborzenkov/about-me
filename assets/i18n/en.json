@@ -1,0 +1,64 @@
+{
+  "NAV": {
+    "HOME": "Home",
+    "ABOUT": "About",
+    "SKILLS": "Skills",
+    "EXPERIENCE": "Experience",
+    "PROJECTS": "Projects",
+    "EDUCATION": "Education",
+    "CONTACT": "Contact"
+  },
+  "HERO": {
+    "GREETING": "Hi, I'm",
+    "DOWNLOAD_RESUME": "Get Resume",
+    "CONTACT_ME": "Contact Me"
+  },
+  "ABOUT": {
+    "TITLE": "About Me"
+  },
+  "SKILLS": {
+    "TITLE": "Skills",
+    "CATEGORIES": {
+      "Languages": "Languages",
+      "Frameworks": "Frameworks",
+      "UI": "UI",
+      "Patterns": "Patterns",
+      "Web": "Web",
+      "ORM": "ORM",
+      "Databases": "Databases",
+      "DevOps": "DevOps",
+      "Tools": "Tools",
+      "Messaging": "Messaging"
+    }
+  },
+  "EXPERIENCE": {
+    "TITLE": "Work Experience",
+    "ACHIEVEMENTS": "Achievements",
+    "TECHNOLOGIES": "Technologies"
+  },
+  "PROJECTS": {
+    "TITLE": "Projects",
+    "FEATURED": "Featured",
+    "ALL": "All Projects",
+    "VIEW_PROJECT": "View Project",
+    "VIEW_CODE": "View Code"
+  },
+  "EDUCATION": {
+    "TITLE": "Education",
+    "HONOURS": "Honours"
+  },
+  "CONTACT": {
+    "TITLE": "Contact",
+    "EMAIL": "Email",
+    "GET_IN_TOUCH": "Get in Touch",
+    "SOCIAL": "Social Links"
+  },
+  "FOOTER": {
+    "RIGHTS": "All rights reserved",
+    "BUILT_WITH": "Built with"
+  },
+  "COMMON": {
+    "LOADING": "Loading...",
+    "ERROR": "An error occurred"
+  }
+}
